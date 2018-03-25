@@ -10,5 +10,9 @@ $ npm install -g vue-cli
 $ npm install
 
 # 1.3 启动项目
-# npm run dev
+$ npm run dev
 ```
+
+备注:
+  课程学习地址: https://www.udemy.com/vuejs-app/
+  课程优惠码: ATOM2018_GITHUB
