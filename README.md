@@ -14,5 +14,4 @@ $ npm run dev
 ```
 
 备注:
-  课程学习地址: https://www.udemy.com/vuejs-app/
-  课程优惠码: ATOM2018_GITHUB
+  课程学习地址: https://www.udemy.com/vuejs-app/?couponCode=ATOM2018_YOUTUBE_VUE
