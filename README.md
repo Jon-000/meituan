@@ -14,4 +14,4 @@ $ npm run dev
 ```
 
 备注:
-  课程学习地址: https://www.udemy.com/vuejs-app/?couponCode=ATOM2018_VUE_ZYZ50&password=zyz
+  课程学习地址: https://www.udemy.com/vuejs-app/?couponCode=ATOM2018_VUE_ZYZ&password=zyz
